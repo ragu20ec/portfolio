@@ -1,0 +1,59 @@
+.bgimg{
+    background-image: url(./images/background.png);
+    padding-top: 750px;
+    padding-right: 0px;
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 600px;
+}
+
+
+body {
+    background-color: #000000;
+}
+
+#heading {
+    text-align: center;
+    color: #ffffff;
+}
+
+#name {
+    /* @include font-size(4rem); */
+    color: #ffffff;
+    font-family: inherit;
+    text-align: left;
+    padding-top: 100px;
+    padding-left: 150px;
+    font-family: sans-serif;
+    font-size: 2.5vmin;
+    text-size-adjust: auto;
+}
+
+
+.about {
+    align: right;
+}
+
+.del {
+    margin-top: 14vh;
+}
+
+.page {
+    padding: 3em 10em 10em 10em;
+    font-family: sans-serif;
+    color: #ffffff;
+    line-height: 2;
+}
+
+
+.link {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+.icon {
+    padding-top: 3em;
+    height: 30px;
+    width: 30px;
+}
